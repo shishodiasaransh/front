@@ -1,5 +1,5 @@
 import React from 'react'
-import Intro from './Intro.jsx'
+import Intro from './intro.jsx'
 import Header from '../../components/Header.jsx'
 import About from './About.jsx'
 import Experience from './Experience.jsx'
