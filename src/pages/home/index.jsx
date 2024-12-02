@@ -5,7 +5,7 @@ import About from './About.jsx'
 import Experience from './Experience.jsx'
 import Projects from './Projects.jsx'
 import Contact from './Contact.jsx'
-import Footer from './footer.jsx'
+import Footer from './Footer.jsx'
 import LeftSider from './LeftSider.jsx'
 
 
